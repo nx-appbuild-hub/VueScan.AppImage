@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=VueScan
+Comment=VueScan Scanner Software
+GenericName=VueScan
+Exec=AppRun %U
+Icon=vuescan
+Categories=Scanning;OCR;
+Terminal=false
+Type=Application
+Version=1.0

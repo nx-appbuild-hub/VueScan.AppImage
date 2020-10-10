@@ -1,0 +1,2 @@
+# DigiKam.AppImage
+# VueScan.AppImage
